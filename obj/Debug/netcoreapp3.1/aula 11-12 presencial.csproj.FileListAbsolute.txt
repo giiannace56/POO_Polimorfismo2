@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\aula 11-12 presencial\bin\Debug\netcoreapp3.1\aula 11-12 presencial.exe
+C:\Users\dev\Desktop\aula 11-12 presencial\bin\Debug\netcoreapp3.1\aula 11-12 presencial.deps.json
+C:\Users\dev\Desktop\aula 11-12 presencial\bin\Debug\netcoreapp3.1\aula 11-12 presencial.runtimeconfig.json
+C:\Users\dev\Desktop\aula 11-12 presencial\bin\Debug\netcoreapp3.1\aula 11-12 presencial.runtimeconfig.dev.json
+C:\Users\dev\Desktop\aula 11-12 presencial\bin\Debug\netcoreapp3.1\aula 11-12 presencial.dll
+C:\Users\dev\Desktop\aula 11-12 presencial\bin\Debug\netcoreapp3.1\aula 11-12 presencial.pdb
+C:\Users\dev\Desktop\aula 11-12 presencial\obj\Debug\netcoreapp3.1\aula 11-12 presencial.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\aula 11-12 presencial\obj\Debug\netcoreapp3.1\aula 11-12 presencial.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aula 11-12 presencial\obj\Debug\netcoreapp3.1\aula 11-12 presencial.AssemblyInfo.cs
+C:\Users\dev\Desktop\aula 11-12 presencial\obj\Debug\netcoreapp3.1\aula 11-12 presencial.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aula 11-12 presencial\obj\Debug\netcoreapp3.1\aula 11-12 presencial.dll
+C:\Users\dev\Desktop\aula 11-12 presencial\obj\Debug\netcoreapp3.1\aula 11-12 presencial.pdb
+C:\Users\dev\Desktop\aula 11-12 presencial\obj\Debug\netcoreapp3.1\aula 11-12 presencial.genruntimeconfig.cache
